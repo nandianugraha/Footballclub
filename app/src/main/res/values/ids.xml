@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id"/>
+    <item name="team_name" type="id"/>
+    <item name="rv_event" type="id"/>
+    <item name="rv_favorites" type="id" />
+    <item name="rv_next" type="id" />
+    <item name="rc_match" type="id"/>
+    <item name="spinner_match" type="id" />
+</resources>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">FootballClub</string>
+
+    <string name="match">Match</string>
+    <string name="team">Team</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="red_cards">Red cards</string>
+    <string name="yellow_cards">Yellow cards</string>
+    <string name="formation">Formation</string>
+    <string name="shots">Shots</string>
+    <string name="defender">Defender</string>
+    <string name="midfielder">Midfielder</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="goal">Goal</string>
+    <string name="lineup">Lineup</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="goalkeeper">Goalkeeper</string>
+    <string name="last_match">Last Match</string>
+    <string name="next_match">Next Match</string>
+
+    <string name="id_epl">4328</string>
+    <string name="id_bundesliga">4331</string>
+    <string name="id_serie_a">4332</string>
+    <string name="id_ligue1">4334</string>
+    <string name="id_laliga">4335</string>
+    <string name="id_eredivisie">4337</string>
+
+    <string name="epl">English Premier League</string>
+    <string name="laliga">Spanish La Liga</string>
+    <string name="seriea">Italian Serie A</string>
+    <string name="bundesliga">German Bundesliga</string>
+    <string name="ligue1">French Ligue 1</string>
+    <string name="eredivisie">Dutch Eredivisie</string>
+    <string name="search">Search</string>
+    <string name="logo">LOGO</string>
+    <string name="weight_kg">Weight(KG)</string>
+    <string name="overview">Overview</string>
+    <string name="player">Player</string>
+    <string name="header">Header</string>
+    <string name="height_m">Height(M)</string>
+
+    <array name="league_name">
+        <item>@string/epl</item>
+        <item>@string/laliga</item>
+        <item>@string/seriea</item>
+        <item>@string/bundesliga</item>
+        <item>@string/ligue1</item>
+        <item>@string/eredivisie</item>
+    </array>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+</resources>
